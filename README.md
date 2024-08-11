@@ -1,4 +1,4 @@
-## Hi there, It's me Nisarg👋
+## Hi there, It's me Nisarg.
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

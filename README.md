@@ -1,5 +1,7 @@
 ## Hey there, I am Nisarg.👋🏻
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Nisarg-07)](https://github.com/ryo-ma/github-profile-trophy)
+
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>

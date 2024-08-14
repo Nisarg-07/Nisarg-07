@@ -2,6 +2,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Nisarg-07&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=Nisarg-07&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

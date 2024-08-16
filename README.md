@@ -8,10 +8,11 @@
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Nisarg-07&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
-
+<!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
+-->
 <!--
 **Nisarg-07/Nisarg-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -4,10 +4,10 @@
 
 # 💻Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-  
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Nisarg-07&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
+
 <!--
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>

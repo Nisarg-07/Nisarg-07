@@ -11,11 +11,11 @@
 </p>
 
 
-<!--
+
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
--->
+
 <!--
 **Nisarg-07/Nisarg-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
